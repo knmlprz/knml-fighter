@@ -1,27 +1,5 @@
-# Godot 4
+# Godot 4+ specific ignores
 .godot/
-*.translation
-export/
-builds/
-
-# .NET
-game/bin/
-game/obj/
-
-# Python
+/android/
 venv/
-.venv/
 __pycache__/
-*.pyc
-
-# Trening: wyniki i modele poza repo, dopóki nie ustalimy inaczej
-training/logs/
-training/runs/
-*.zip
-*.onnx
-
-# System / edytory
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
