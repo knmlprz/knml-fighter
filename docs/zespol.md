@@ -1,4 +1,4 @@
 Przykład:
-- Imię — rola — jakiś tekst
 
+* Bartłomiej — Trening AI — Trenuje AI chyba 
 
