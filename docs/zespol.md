@@ -1,4 +1,4 @@
 Przykład:
-- Imię — rola — jakiś tekst
 
+* \- Sebastian – Tworzenie gierki – pozdrawiam cieplutko
 
