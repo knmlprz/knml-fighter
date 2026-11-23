@@ -1,4 +1,10 @@
 Przykład:
-- Imię — rola — jakiś tekst
 
+* Imię — rola — jakiś tekst
+
+
+
+
+
+KacperNy - tworzenie gry - transfer lotniskowy
 
