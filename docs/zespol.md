@@ -1,5 +1,6 @@
 Przykład:
 
+* Bartłomiej — Trening AI — Trenuje AI chyba 
 * Imię — rola — jakiś tekst
 
 
