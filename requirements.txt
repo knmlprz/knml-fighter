@@ -31,7 +31,7 @@ onnx==1.23.2
 onnxruntime==1.23.2
 packaging==26.3
 pandas==2.3.3
-pillow==12.3.0
+pillow==13.0.0
 protobuf==7.36.2
 pyparsing==3.3.3
 pyreadline3==3.5.6
